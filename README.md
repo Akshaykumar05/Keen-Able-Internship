@@ -7,3 +7,7 @@
 4. Problem Solving Skills- Brainteaser
 5. Communication Skills/ Research Skills/ Quality of Work/ Planning & Problem Solving- Teach a Topic
 6. Research Skills/ Communication Skills/ Quality of Work- GD
+
+### Other Tools to learn
+* Google Spreadsheet
+* Redmine
