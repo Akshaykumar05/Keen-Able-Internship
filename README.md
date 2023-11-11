@@ -15,4 +15,9 @@
 ### Redmine
 ![](https://raw.githubusercontent.com/docker-library/docs/969091c4c590befe236a71d4a7bce5823fff020d/redmine/logo.png)
 * Redmine is a free and open source, web-based project management and issue tracking tool. It allows users to manage multiple projects and associated subprojects. It features per project wikis and forums, time tracking, and flexible, role-based access control. It includes a calendar and Gantt charts to aid visual representation of projects and their deadlines. Redmine integrates with various version control systems and includes a repository browser and diff viewer.
+#### Main features
+* Manage all your projects with one Redmine instance
+* Each user can have a different role on each project
+* Each project can be declared as public (visible by anyone) or private (visible by project members only)
+* Modules (eg. wiki, repository, issue tracking, ...) can be enabled/disabled at project level
 
