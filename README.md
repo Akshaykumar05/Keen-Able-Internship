@@ -21,3 +21,8 @@
 * Each project can be declared as public (visible by anyone) or private (visible by project members only)
 * Modules (eg. wiki, repository, issue tracking, ...) can be enabled/disabled at project level
 
+### Sessions 
+1. Public Speaking
+2. Email and Google Spreadsheet
+3. Empathy and Proactive Behaviour
+4. Discussion on GitHub - Discussion among interns.
