@@ -29,3 +29,4 @@ In this repo I am summarising all the related things for this training. There ar
 2. Email and Google Spreadsheet
 3. Empathy and Proactive Behaviour
 4. Discussion on GitHub - Discussion among interns.
+5. On-line session by Shreesh Chaudhary on "Storytelling". (I shared my Vipassana experience along with PPT) (18/11/23)
