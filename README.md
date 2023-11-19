@@ -1,4 +1,7 @@
 # Keen-Able-Internship
+In this repo I am summarising all the related things for this training. There are two part of this training
+1. Non-technical
+2. Technical
 
 ### Non-Tech (6 Tasks)
 1. Written Communication Skills/ Quality of Work/ Planning & Problem Solving Skills/ Teamwork- Diwali Decoration
