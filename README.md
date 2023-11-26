@@ -30,3 +30,5 @@ In this repo I am summarising all the related things for this training. There ar
 3. Empathy and Proactive Behaviour
 4. Discussion on GitHub - Discussion among interns.
 5. On-line session by Shreesh Chaudhary on "Storytelling". (I shared my Vipassana experience along with PPT) (18/11/23)
+6. Book Reading **"But, How Do It Know"**. Purpose: to develope curiosity.
+7. How to ask Good Questions.
