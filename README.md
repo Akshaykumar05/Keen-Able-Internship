@@ -39,10 +39,14 @@ In this repo I am summarising all the related things of this training. There are
 * Touch: used to create, change and modify the timestamps of a file.
   - **cat command**: It is used to create the file with content.
   - **Touch command**: It is used to create a file without any content. The file created using the touch command is empty. This command can be used when the user doesn’t have data to store at the time of file creation.
-* mkdir: 
-* vim:
+* mkdir: used used to make a new directory.
+* vim: Vim is an advanced and highly configurable text editor built to enable efficient text editing. It supports most file types and vim editor is also known as a programmer’s editor. We can use its plugin based on our needs.
   
-3. File and Folder Permission (CHOWN, CHMOD, CHGRP)
+2. File and Folder Permission (CHOWN, CHMOD, CHGRP)
+* **chown**: used to change the file Owner or group. Whenever you want to change ownership, you can use chown command.
+  - Syntax: chown owner_name file_name
+* **chmod**
+* [Reference](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/)
 4. Check File/Folder/Content (LS, LL, CAT, GREP, HEAD, TAIL, LESS, MORE, ECHO)
 5. Copy and Move Command (RM, CP, MV, SCP, RSYNC)
 6. User/Group and Access (USERADD, USERDEL, USERMOD, GROUPADD, GROUPDEL, SU, SUDO, SSH,)
