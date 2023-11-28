@@ -1,5 +1,5 @@
 # Keen-Able-Internship
-In this repo I am summarising all the related things for this training. There are two part of this training
+In this repo I am summarising all the related things of this training. There are two part of training
 1. Non-technical
 2. Technical
 
@@ -32,3 +32,17 @@ In this repo I am summarising all the related things for this training. There ar
 5. On-line session by Shreesh Chaudhary on "Storytelling". (I shared my Vipassana experience along with PPT) (18/11/23)
 6. Book Reading **"But, How Do It Know"**. Purpose: to develope curiosity.
 7. How to ask Good Questions.
+8. How to search on Google.
+
+## Technical (40 task)
+1. File and Folder Create Command (TOUCH, MKDIR, VIM )
+* Touch: used to create, change and modify the timestamps of a file.
+  - **cat command**: It is used to create the file with content.
+  - **Touch command**: It is used to create a file without any content. The file created using the touch command is empty. This command can be used when the user doesn’t have data to store at the time of file creation.
+* mkdir: 
+* vim:
+  
+3. File and Folder Permission (CHOWN, CHMOD, CHGRP)
+4. Check File/Folder/Content (LS, LL, CAT, GREP, HEAD, TAIL, LESS, MORE, ECHO)
+5. Copy and Move Command (RM, CP, MV, SCP, RSYNC)
+6. User/Group and Access (USERADD, USERDEL, USERMOD, GROUPADD, GROUPDEL, SU, SUDO, SSH,)
