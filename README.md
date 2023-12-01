@@ -30,9 +30,13 @@ In this repo I am summarising all the related things of this training. There are
 3. Empathy and Proactive Behaviour
 4. Discussion on GitHub - Discussion among interns.
 5. On-line session by Shreesh Chaudhary on "Storytelling". (I shared my Vipassana experience along with PPT) (18/11/23)
-6. Book Reading **"But, How Do It Know"**. Purpose: to develope curiosity.
-7. How to ask Good Questions.
-8. How to search on Google.
+6. Book Reading **"But How Do It Know? - The Basic Principles of Computers for Everyone"**. Purpose: to develope curiosity.
+   * [Book link](https://www.amazon.in/But-How-Know-Principles-Computers-ebook/dp/B00F25LEVC)
+8. How to ask Good Questions.
+9. How to search on Google.
+10. Book reading **"Mother Pious Lady: Making Sense of Everyday India"**
+   [](https://4.bp.blogspot.com/_VMCCOqUYc5c/S_z8Ror_C1I/AAAAAAAABDg/4FYCRI-1DwE/w1200-h630-p-k-no-nu/Mother.bmp)
+    * [Book link](https://www.amazon.in/Mother-Pious-Lady-Making-Everyday/dp/8172238649)
 
 ## Technical (40 task)
 1. File and Folder Create Command (TOUCH, MKDIR, VIM )
