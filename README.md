@@ -53,4 +53,6 @@ In this repo I am summarising all the related things of this training. There are
 * [Reference](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/)
 4. Check File/Folder/Content (LS, LL, CAT, GREP, HEAD, TAIL, LESS, MORE, ECHO)
 5. Copy and Move Command (RM, CP, MV, SCP, RSYNC)
+  - **RM Command**: rm stands for remove here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX.
+  - Syntax: rm [OPTION]... FILE...
 6. User/Group and Access (USERADD, USERDEL, USERMOD, GROUPADD, GROUPDEL, SU, SUDO, SSH,)
