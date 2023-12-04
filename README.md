@@ -1,9 +1,10 @@
 # Keen-Able-Internship
-In this repo I am summarising all the related things of this training. There are two part of training
+(**Based on November 2023-batch internship**)
+* In this repo I am summarising all the related things of this training. There are two part of training
 1. Non-technical
 2. Technical
 
-### Non-Tech (6 Tasks)
+### Non-Tech (6 Tasks) 
 1. Written Communication Skills/ Quality of Work/ Planning & Problem Solving Skills/ Teamwork- Diwali Decoration
 2. Ability to Learn- Learn Google Spreadsheets.
 3. Research Skills/ Quality of Work- Search Engine Questionnaire
@@ -38,7 +39,7 @@ In this repo I am summarising all the related things of this training. There are
    [](https://4.bp.blogspot.com/_VMCCOqUYc5c/S_z8Ror_C1I/AAAAAAAABDg/4FYCRI-1DwE/w1200-h630-p-k-no-nu/Mother.bmp)
     * [Book link](https://www.amazon.in/Mother-Pious-Lady-Making-Everyday/dp/8172238649)
 
-## Technical (40 task)
+## Technical (Linux 40 task) 🐧
 1. File and Folder Create Command (TOUCH, MKDIR, VIM )
 * Touch: used to create, change and modify the timestamps of a file.
   - **cat command**: It is used to create the file with content.
