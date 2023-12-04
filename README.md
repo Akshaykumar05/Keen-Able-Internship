@@ -55,4 +55,6 @@ In this repo I am summarising all the related things of this training. There are
 5. Copy and Move Command (RM, CP, MV, SCP, RSYNC)
   - **RM Command**: rm stands for remove here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX.
   - Syntax: rm [OPTION]... FILE...
+  - **CP Command**: cp stands for a copy. This command is used to copy files or groups of files or directories. It creates an exact image of a file on a disk with a different file name.
+  - Syntax: cp [Source_file] [Destination_file]
 6. User/Group and Access (USERADD, USERDEL, USERMOD, GROUPADD, GROUPDEL, SU, SUDO, SSH,)
