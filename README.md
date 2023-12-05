@@ -7,12 +7,15 @@
 2. Technical
 
 ## 1. Non-Tech (6 Tasks) 
-1. Written Communication Skills/ Quality of Work/ Planning & Problem Solving Skills/ Teamwork- Diwali Decoration
-2. Ability to Learn- Learn Google Spreadsheets.
-3. Research Skills/ Quality of Work- Search Engine Questionnaire
-4. Problem Solving Skills- Brainteaser
-5. Communication Skills/ Research Skills/ Quality of Work/ Planning & Problem Solving- Teach a Topic
-6. Research Skills/ Communication Skills/ Quality of Work- GD
+
+| Skills Measuring                                                         | Task                                                                                 
+| :------------------------------------------------------------------ | :--------------------------------------------------------------------------------------- |
+| 1. Written Communication Skills/ Quality of Work/ Planning & Problem Solving Skills/ Teamwork | Diwali Office Decoration
+| 2. Ability to Learn | Learn Google Spreadsheets.
+| 3. Research Skills/ Quality of Work | Search Engine Questionnaire
+| 4. Problem Solving Skills | Brainteaser
+| 5. Communication Skills/ Research Skills/ Quality of Work/ Planning & Problem Solving | Teach a Topic
+| 6. Research Skills/ Communication Skills/ Quality of Work | Group Discussion
 
 #### [My WBS of these 6 tasks](https://docs.google.com/spreadsheets/d/1XqhWew23b-FNKplvbDdNHRxFnZZv6ZabzMsyWrOodGE/edit?usp=sharing)
 #### [DPT Sample](https://docs.google.com/spreadsheets/d/15wWwTZIbxCZoAYrP4czUjAf2vSXrMcjXT2A3DeH6neU/edit?usp=sharing)
@@ -44,7 +47,11 @@
 10. Book reading **"Mother Pious Lady: Making Sense of Everyday India"**
    [](https://4.bp.blogspot.com/_VMCCOqUYc5c/S_z8Ror_C1I/AAAAAAAABDg/4FYCRI-1DwE/w1200-h630-p-k-no-nu/Mother.bmp)
     * [Book link](https://www.amazon.in/Mother-Pious-Lady-Making-Everyday/dp/8172238649)
-
+11. Experience Sharing Session (By- Ashish Jha, Keenable Employee)
+* My Takeaway from the session:
+  * Keep the interest in learning (that can be either in your technical stuff or any hobby)
+  * Find out the solution if you phase any challange (so that it can't repeat in future)
+    
 # 2. Technical 
 ## Documentation
 ## (Linux 40 task) 🐧
