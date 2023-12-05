@@ -1,6 +1,8 @@
 # Keen-Able-Internship
-(**Based on November 2023-batch internship**)
-* In this repo I am summarising all the related things of this training. There are two part of training
+(**Based on November-2023 batch**)
+![photo_6303038419151993282_y](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/6411af82-8b52-405d-b2a7-632e3404cf51)
+
+* In this repo I am summarising all the related things of this training. There are two parts of the internship.
 1. Non-technical
 2. Technical
 
@@ -12,7 +14,9 @@
 5. Communication Skills/ Research Skills/ Quality of Work/ Planning & Problem Solving- Teach a Topic
 6. Research Skills/ Communication Skills/ Quality of Work- GD
 
-#### [My WBS of these task](https://docs.google.com/spreadsheets/d/1XqhWew23b-FNKplvbDdNHRxFnZZv6ZabzMsyWrOodGE/edit?usp=sharing)
+#### [My WBS of these 6 tasks](https://docs.google.com/spreadsheets/d/1XqhWew23b-FNKplvbDdNHRxFnZZv6ZabzMsyWrOodGE/edit?usp=sharing)
+#### [DPT Sample](https://docs.google.com/spreadsheets/d/15wWwTZIbxCZoAYrP4czUjAf2vSXrMcjXT2A3DeH6neU/edit?usp=sharing)
+#### [DSR Sample](https://docs.google.com/spreadsheets/d/1txpPFfq3oH3lkPiDeoKKaU6cgyGa5g01IISc8BMECJI/edit?usp=sharing)
 
 ### Other Tools to learn
 * Google Spreadsheet
