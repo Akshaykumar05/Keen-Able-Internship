@@ -12,6 +12,8 @@
 5. Communication Skills/ Research Skills/ Quality of Work/ Planning & Problem Solving- Teach a Topic
 6. Research Skills/ Communication Skills/ Quality of Work- GD
 
+#### [My WBS of these task](https://docs.google.com/spreadsheets/d/1XqhWew23b-FNKplvbDdNHRxFnZZv6ZabzMsyWrOodGE/edit#gid=0)
+
 ### Other Tools to learn
 * Google Spreadsheet
 * Redmine
