@@ -6,7 +6,7 @@
 1. Non-technical
 2. Technical
 
-### Non-Tech (6 Tasks) 
+## 1. Non-Tech (6 Tasks) 
 1. Written Communication Skills/ Quality of Work/ Planning & Problem Solving Skills/ Teamwork- Diwali Decoration
 2. Ability to Learn- Learn Google Spreadsheets.
 3. Research Skills/ Quality of Work- Search Engine Questionnaire
@@ -18,7 +18,7 @@
 #### [DPT Sample](https://docs.google.com/spreadsheets/d/15wWwTZIbxCZoAYrP4czUjAf2vSXrMcjXT2A3DeH6neU/edit?usp=sharing)
 #### [DSR Sample](https://docs.google.com/spreadsheets/d/1txpPFfq3oH3lkPiDeoKKaU6cgyGa5g01IISc8BMECJI/edit?usp=sharing)
 
-### Other Tools to learn
+# Other Tools to learn
 * Google Spreadsheet
 * Redmine
 
@@ -31,7 +31,7 @@
 * Each project can be declared as public (visible by anyone) or private (visible by project members only)
 * Modules (eg. wiki, repository, issue tracking, ...) can be enabled/disabled at project level
 
-### Sessions 
+# Sessions 
 1. Public Speaking
 2. Email and Google Spreadsheet
 3. Empathy and Proactive Behaviour
@@ -45,7 +45,9 @@
    [](https://4.bp.blogspot.com/_VMCCOqUYc5c/S_z8Ror_C1I/AAAAAAAABDg/4FYCRI-1DwE/w1200-h630-p-k-no-nu/Mother.bmp)
     * [Book link](https://www.amazon.in/Mother-Pious-Lady-Making-Everyday/dp/8172238649)
 
-## Technical (Linux 40 task) 🐧
+# 2. Technical 
+## Documentation
+## (Linux 40 task) 🐧
 1. File and Folder Create Command (TOUCH, MKDIR, VIM )
 * Touch: used to create, change and modify the timestamps of a file.
   - **cat command**: It is used to create the file with content.
