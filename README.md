@@ -59,6 +59,8 @@
 * Touch: used to create, change and modify the timestamps of a file.
   - **cat command**: It is used to create the file with content.
   - **Touch command**: It is used to create a file without any content. The file created using the touch command is empty. This command can be used when the user doesn’t have data to store at the time of file creation.
+  - **Vim command**: Vim is an advanced and highly configurable text editor built to enable efficient text editing. Vim text editor is developed by Bram Moolenaar. It supports most file types and vim editor is also known as a programmer’s editor.
+    
 * mkdir: used used to make a new directory.
 * vim: Vim is an advanced and highly configurable text editor built to enable efficient text editing. It supports most file types and vim editor is also known as a programmer’s editor. We can use its plugin based on our needs.
   
