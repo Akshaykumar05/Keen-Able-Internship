@@ -17,6 +17,10 @@
 | 5. Communication Skills/ Research Skills/ Quality of Work/ Planning & Problem Solving | Teach a Topic
 | 6. Research Skills/ Communication Skills/ Quality of Work | Group Discussion
 
+#### WBS (Work Breakdown Structure)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuuqBkH9r6tecoHrKvn1CuJ3HU21M_EBmnEdcLOieScCan6mE1BqTdYFKlHn0JWCFiszA&usqp=CAU)
+* Breaking work into smaller tasks is a common productivity technique used to make the work more manageable and approachable. For projects, the Work Breakdown Structure (WBS) is the tool that utilizes this technique and is one of the most important project management documents.
+
 #### [My WBS of these 6 tasks](https://docs.google.com/spreadsheets/d/1XqhWew23b-FNKplvbDdNHRxFnZZv6ZabzMsyWrOodGE/edit?usp=sharing)
 #### [DPT Sample](https://docs.google.com/spreadsheets/d/15wWwTZIbxCZoAYrP4czUjAf2vSXrMcjXT2A3DeH6neU/edit?usp=sharing)
 #### [DSR Sample](https://docs.google.com/spreadsheets/d/1txpPFfq3oH3lkPiDeoKKaU6cgyGa5g01IISc8BMECJI/edit?usp=sharing)
@@ -70,6 +74,12 @@
 * **chmod**
 * [Reference](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/)
 4. Check File/Folder/Content (LS, LL, CAT, GREP, HEAD, TAIL, LESS, MORE, ECHO)
+* **ll command**: The 'll' command is a robust utility that displays detailed directory listings. (details like permissions, number of links, owner, group, size, and time of last modification)
+* -a: This option makes 'll' display all files, including hidden ones
+* -h: This option makes 'll' display file size in human-readable format (K for kilobytes, M for megabytes, etc.).
+* -R: This option makes 'll' list directories recursively, showing their content and the content of their subdirectories.
+  
+* Syntax: ll [file_name]
 5. Copy and Move Command (RM, CP, MV, SCP, RSYNC)
   - **RM Command**: rm stands for remove here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX.
   - Syntax: rm [OPTION]... FILE...
