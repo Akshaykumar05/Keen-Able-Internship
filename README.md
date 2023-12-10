@@ -58,6 +58,10 @@
     
 # 2. Technical 
 ## Documentation
+* Docker
+* Podman
+* Kubernetes
+* AWS
 ## (Linux 40 task) 🐧
 1. File and Folder Create Command (TOUCH, MKDIR, VIM )
 * Touch: used to create, change and modify the timestamps of a file.
