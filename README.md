@@ -88,6 +88,9 @@
 * -R: This option makes 'll' list directories recursively, showing their content and the content of their subdirectories.
 * Syntax: ll [file_name]
   
+* **Grep Command**: The grep filter searches a file for a particular pattern of characters, and displays all lines that contain that pattern.
+  - Syntax: grep "pattern" [file_name] 
+  
 * **Cat > file_name**: to create a file and write content in it. (use "Control+C" to exit from the file)
   
 * **Head Command**: Head command prints the first lines of one or more files (or piped data) to standard output.
