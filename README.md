@@ -77,16 +77,24 @@
   - Syntax: chown owner_name file_name
 * **chmod**
 * [Reference](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/)
+
 4. Check File/Folder/Content (LS, LL, CAT, GREP, HEAD, TAIL, LESS, MORE, ECHO)
+* **ls**: provide the list of files and directories.
+* **ls -l**: provide long details of all files with alphabetic order.
+* **ls -ltr**: to list all the files with with long details and wrt dates.
 * **ll command**: The 'll' command is a robust utility that displays detailed directory listings. (details like permissions, number of links, owner, group, size, and time of last modification)
 * -a: This option makes 'll' display all files, including hidden ones
 * -h: This option makes 'll' display file size in human-readable format (K for kilobytes, M for megabytes, etc.).
 * -R: This option makes 'll' list directories recursively, showing their content and the content of their subdirectories.
 * Syntax: ll [file_name]
+  
+* **Cat > file_name**: to create a file and write content in it. (use "Control+C" to exit from the file)
+  
 * **Head Command**: Head command prints the first lines of one or more files (or piped data) to standard output.
   - Syntax: head [file_name]
 * **Tail Command**: Tail command is used to display the last ten lines of one or more files. Its main purpose is to read the error message. By default, it displays the last ten lines of a file. Additionally, it is used to monitor the file changes in real-time.
   - Syntax: tail [file_name]
+
 5. Copy and Move Command (RM, CP, MV, SCP, RSYNC)
   - **RM Command**: rm stands for remove here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX.
   - Syntax: rm [OPTION]... FILE...
