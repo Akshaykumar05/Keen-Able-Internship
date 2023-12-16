@@ -97,6 +97,8 @@
   - Syntax: head [file_name]
 * **Tail Command**: Tail command is used to display the last ten lines of one or more files. Its main purpose is to read the error message. By default, it displays the last ten lines of a file. Additionally, it is used to monitor the file changes in real-time.
   - Syntax: tail [file_name]
+
+* **Less**: 
 * **More**: The More command in Linux is a command-line utility that allows users to view text files one page at a time. The more command is often used when dealing with large files that cannot be viewed in their entirety on a single screen.
   - Syntax: more [file_name]
 
