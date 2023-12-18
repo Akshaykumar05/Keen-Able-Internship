@@ -102,6 +102,8 @@
 * **More**: The More command in Linux is a command-line utility that allows users to view text files one page at a time. The more command is often used when dealing with large files that cannot be viewed in their entirety on a single screen.
   - Syntax: more [file_name]
 
+* **Echo**:
+
 5. Copy and Move Command (RM, CP, MV, SCP, RSYNC)
   - **RM Command**: rm stands for remove here. rm command is used to remove objects such as files, directories, symbolic links and so on from the file system like UNIX.
   - Syntax: rm [OPTION]... FILE...
