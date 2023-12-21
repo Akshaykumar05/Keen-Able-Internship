@@ -55,7 +55,18 @@
 * My Takeaway from the session:
   * Keep the interest in learning (that can be either in your technical stuff or any hobby)
   * Find out the solution if you phase any challange (so that it can't repeat in future)
-    
+
+### Success Secrets of Internship
+* Reach the office on time.
+* Send the DPT/DSR daily on time.
+* Be responsible with your tasks.
+* Do all the task with good quality.
+* Communication is important so focus on it. (learn to write good emails)
+* Keep a hunger to learn.
+* Do participate in random tasks given by mentors.
+* Keep good relations with all the mentors and staff.
+* Use your creative mind, and understand the Keenable organisation requirments to make something new.
+  
 # 2. Technical 
 ## Documentation
 * Docker
