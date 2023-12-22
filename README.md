@@ -86,8 +86,9 @@
 2. File and Folder Permission (CHOWN, CHMOD, CHGRP)
 * **chown**: used to change the file Owner or group. Whenever you want to change ownership, you can use chown command.
   - Syntax: chown owner_name file_name
-* **chmod**
-* [Reference](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/)
+  - [Reference chown](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/)
+* **chmod**: the chmod command is used to change the access mode of a file.
+  - chmod <options> <permission_combination> <file_name>
 
 4. Check File/Folder/Content (LS, LL, CAT, GREP, HEAD, TAIL, LESS, MORE, ECHO)
 * **ls**: provide the list of files and directories.
