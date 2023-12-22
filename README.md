@@ -89,6 +89,14 @@
   - [Reference chown](https://www.geeksforgeeks.org/chown-command-in-linux-with-examples/)
 * **chmod**: the chmod command is used to change the access mode of a file.
   - chmod <options> <permission_combination> <file_name>
+* **chgrp**: The `chgrp` command in Linux is used to change the group ownership of a file or directory. All files in Linux belong to an owner and a group.
+   - Note First we need to have administrator permission to add or delete groups. We can login as root for this purpose or use sudo. In order to add a new group, we can use:
+   - Syntax: sudo addgroup growin
+   - To change the group ownership of a file.
+   - Syntax: sudo chgrp growin filename.txt
+     
+  ![Screenshot from 2023-12-23 00-22-20](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/edd191a8-0757-4134-a2ba-1e2d6474867f)
+  ![Screenshot from 2023-12-23 00-22-56](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/fd67d8ff-c793-4616-99c5-7b30e978746b)
 
 4. Check File/Folder/Content (LS, LL, CAT, GREP, HEAD, TAIL, LESS, MORE, ECHO)
 * **ls**: provide the list of files and directories.
