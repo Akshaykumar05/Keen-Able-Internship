@@ -135,3 +135,8 @@
 
 
 ## Project:Open-Source Community forum
+* In this project I'm building a Community forum using "Zulip" tool as a platform, where all people of Keenable can communicate together.
+
+### Deployment Architecture
+![Screenshot from 2023-12-27 15-06-53](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/8a78b41d-b19c-4bab-b62e-c1cfe5e39ab0)
+
