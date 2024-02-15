@@ -26,7 +26,7 @@
 #### [DSR Sample](https://docs.google.com/spreadsheets/d/1txpPFfq3oH3lkPiDeoKKaU6cgyGa5g01IISc8BMECJI/edit?usp=sharing)
 
 # Other Tools to learn
-* Google Spreadsheet
+* Google Spreadsheet [Resources](https://youtu.be/8TpSEyTR8Jk?si=iYJ0ZcSArNJ6l993)
 * Redmine
 
 ### Redmine
