@@ -140,3 +140,12 @@
 ### Deployment Architecture
 ![Screenshot from 2023-12-27 15-06-53](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/8a78b41d-b19c-4bab-b62e-c1cfe5e39ab0)
 
+## My learnings:
+### 1. Proxy issue
+  * My system was unable to connect the the wifi other than office ( where the proxy was apllied to the internet on Firewall browser.
+
+  * The terminal commands
+    
+    ![image](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/cc0e2830-31cf-4917-b733-0b12a5727132)
+
+
