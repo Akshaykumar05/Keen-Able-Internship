@@ -147,5 +147,7 @@
   * The terminal commands
     
     ![image](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/cc0e2830-31cf-4917-b733-0b12a5727132)
-
+### 2. Installation
+   * There are diffrenet types installation such Normal imstallation and installation through Docker.
+   * I instaaled Zulip with normal installtion and also with Docker by making containers. 
 
