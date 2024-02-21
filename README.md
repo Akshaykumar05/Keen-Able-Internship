@@ -37,6 +37,7 @@
 * Each user can have a different role on each project
 * Each project can be declared as public (visible by anyone) or private (visible by project members only)
 * Modules (eg. wiki, repository, issue tracking, ...) can be enabled/disabled at project level
+* [Link of Redmine](http://pems.keenable.io:3000/)
 
 # Sessions 
 1. Public Speaking
