@@ -157,3 +157,9 @@
 
 #### [Postmaster Tools](https://support.google.com/a/answer/9981691?sjid=10149656671777075305-AP&visit_id=638436024132136020-3878062968&rd=2) 
 
+### 3. Open-Source Software
+* Open source software (OSS) is software that is distributed with its source code, making it available for use, modification, and distribution with its original rights.
+
+### 4. Web Server
+### 5. Databases
+### 6. SMTP Service
