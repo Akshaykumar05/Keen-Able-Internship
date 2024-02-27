@@ -164,3 +164,4 @@
 ### 5. Databases
 ### 6. SMTP Service
 ### 7. Docker
+### 8. Making accessable a localhost project to others with same IP address.
