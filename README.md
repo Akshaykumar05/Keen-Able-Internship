@@ -165,3 +165,25 @@
 ### 6. SMTP Service
 ### 7. Docker
 ### 8. Making accessable a localhost project to others with same IP address.
+
+### 9. Selenium
+![image](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/32ab218c-fc0c-4aca-82fd-6f495aad3768)
+
+* It is an Open-Source framework for automating web browsers.
+  #### Uses:
+  * Testing web applications
+  * Performing automation tasks
+  * Scraping data from websites
+  #### Support multiple programming languages:
+  * Java
+  * Python
+  * C#
+  * Ruby
+  #### Selenium consists of different components:
+  * Se web driver == Automation browser interactions
+  * Se Grid == Parallel testing on multiple machines or browsers
+  * Se IDE == Intregated Development environmenet for creating and running Selenium test cases.
+  #### Key advantages of Selenium
+  * Simulate real-world user interactions with web application, this helps to identitify potential issues andbugs before the becomes a problem for the end user.
+  * Selenium supports multiple web browsers making it easier to test web applications on different platforms, this helps to ensure compatibility and reduce the risk of issues arises from differences between browser.
+    
