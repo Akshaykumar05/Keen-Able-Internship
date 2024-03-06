@@ -169,7 +169,10 @@
 ### 9. Selenium
 ![image](https://github.com/Akshaykumar05/Keen-Able-Internship/assets/114390890/32ab218c-fc0c-4aca-82fd-6f495aad3768)
 
-* It is an Open-Source framework for automating web browsers.
+* It is an Open-Source framework for automating and testing web browsers.
+
+  #### Why tesyting is important.
+  * Software testing is now a key component of software development because it improves consistency and performance. Though the main benefit of testing involves finding errors and defects, it also helps the team in understanding actual and expected outcomes so that they can improve the quality of their products.
   #### Uses:
   * Testing web applications
   * Performing automation tasks
