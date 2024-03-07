@@ -189,4 +189,5 @@
   #### Key advantages of Selenium
   * Simulate real-world user interactions with web application, this helps to identitify potential issues andbugs before the becomes a problem for the end user.
   * Selenium supports multiple web browsers making it easier to test web applications on different platforms, this helps to ensure compatibility and reduce the risk of issues arises from differences between browser.
-    
+    ### Other tool for testing
+    * [Playwright](https://playwright.dev/)
