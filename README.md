@@ -191,3 +191,9 @@
   * Selenium supports multiple web browsers making it easier to test web applications on different platforms, this helps to ensure compatibility and reduce the risk of issues arises from differences between browser.
     ### Other tool for testing
     * [Playwright](https://playwright.dev/)
+### 10. Logical Replication
+* Logical replication is a method of replicating data objects and their changes, based upon their replication identity.
+* We use the term logical in contrast to physical replication, which uses exact block addresses and byte-by-byte replication.
+
+### PgBackRest
+* PgBackRest is a reliable backup and restore solution for PostgreSQL that seamlessly scales up to the largest databases and workloads.
