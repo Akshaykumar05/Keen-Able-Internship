@@ -194,7 +194,13 @@
 ### 10. Logical Replication
 * Logical replication is a method of replicating data objects and their changes, based upon their replication identity.
 * We use the term logical in contrast to physical replication, which uses exact block addresses and byte-by-byte replication.
-
+* 
+## Use Case: I need to ctreate the data backup and restore it using the tool **PgBackRest** and this need to be done by creating the containers.
 ### PgBackRest
 * PgBackRest is a reliable backup and restore solution for PostgreSQL that seamlessly scales up to the largest databases and workloads.
-### PgAdmin
+### Steps to implement use case:
+* Create a Container of PostgreSQL.
+
+  ```sudo docker run --name my-postgres-container -e POSTGRES_PASSWORD=mysecretpassword -d postgres```
+
+
