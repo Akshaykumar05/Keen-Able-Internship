@@ -203,4 +203,5 @@
 
   ```sudo docker run --name my-postgres-container -e POSTGRES_PASSWORD=mysecretpassword -d postgres```
 
-
+* Create an another container of PgBackRest.
+* Configure the PostgreSQL and PgBackRest.
